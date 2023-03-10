@@ -17,3 +17,4 @@ print("This is a\n string\n that has\n been \n split over multiple \nlines")
 
 print("Testing tabs...")
 print("This is a \t test of \t tabs \t fun")
+print(type(greeting))

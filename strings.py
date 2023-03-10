@@ -8,3 +8,12 @@ name = "Eric"
 
 # if we want a space, we can add that too
 print(greeting + " " + name)
+
+name = input("Please enter your name:")
+print(greeting + " " + name)
+
+print("Testing a newline character...")
+print("This is a\n string\n that has\n been \n split over multiple \nlines")
+
+print("Testing tabs...")
+print("This is a \t test of \t tabs \t fun")

@@ -6,3 +6,6 @@ elif guess > answer:
     print("Sorry, the correct answer is less than that")
 else:
     print("Correct!")
+
+# at the end, print farewell message
+print("This was fun. Please try again soon!")

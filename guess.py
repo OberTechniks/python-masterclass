@@ -9,3 +9,5 @@ else:
 
 # at the end, print farewell message
 print("This was fun. Please try again soon!")
+
+print(2+2, 2, "What does this look like?")

@@ -11,3 +11,6 @@ else:
 print("This was fun. Please try again soon!")
 
 print(2+2, 2, "What does this look like?")
+
+print("What a fun little program.")
+print("Hi.")
